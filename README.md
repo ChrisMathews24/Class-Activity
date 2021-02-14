@@ -34,26 +34,19 @@ TD has come a long way from just being a regular bank to one of the most conveni
 
 Currently during COVID, TD's digital team has developed pandemic-specific application to handle government responses and programs: mortgage and auto-payment deferrals,vPaycheck Protection Program (PPP) and Canada’s Emergency Response Benefit (CERB). The team developed SimpleApps, a platform  made for users to easily apply for relief services. Initially 20 such forms were created, TD recieved over 500,000 online applications recieved within 3 months(5).
 
-The success of a bank is measured by the number of customers it provides services to and the value of it's assets held. TD provides products and services to over 26.5 million customers worldwide(2) compared to Scotia Bank's 23 million, RBC's 16 million, BMO's 7 million, and CIBC's 11 million customers worldwide(6). TD also has total assets valued at CDN$ 1.7 Trillion compared to BMO's C$ 949.3 billion, and CIBC's C$ 769.6 billion in assets. This shows that TD is comparatively doing much better than its competitors.
+The success of a bank is measured by the number of customers it provides services to and the value of it's assets held. TD provides products and services to over 26.5 million customers worldwide(2) compared to Scotia Bank's 23 million, RBC's 16 million, BMO's 7 million, and CIBC's 11 million customers worldwide(6). TD also has total assets valued at C$1.7 trillion compared to BMO's C$ 949.3 billion, and CIBC's C$ 769.6 billion in assets. This shows that TD is comparatively doing much better than its competitors.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I would promote the use of their banking services with low interest rates. They also provide robo advisors for customers that want to invest their wealth but is not willing to pay the high agent fee.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
-
-
+This product will help attract more customers as currently a lot of competition does not provide this service and at such a low cost. This product will require a lot of AI for successful operation. This is considered as a positive since AI can predict more accurately and can monitor stocks more precisely than humans.
 
 
 ### Bibliography
-(1) https://www.td.com/about-tdbfg/corporate-information/tds-history/ourroots.jsp
-(2) https://www.td.com/about-tdbfg/corporate-information/corporate-profile/profile.jsp
-(3) https://www.newswire.ca/news-releases/td-awarded-most-innovative-digital-bank-for-second-year-in-a-row-by-global-finance-839578818.html
-(4) https://www.valuepenguin.com/banking/td-bank-review
-(5) https://www.borndigital.com/2020/06/18/bankings-new-normal-td-chief-digital-officer-rizwan-khalfan
-(6) https://www.investopedia.com/terms/b/bigfivebanks.asp
+- (1) https://www.td.com/about-tdbfg/corporate-information/tds-history/ourroots.jsp
+- (2) https://www.td.com/about-tdbfg/corporate-information/corporate-profile/profile.jsp
+- (3) https://www.newswire.ca/news-releases/td-awarded-most-innovative-digital-bank-for-second-year-in-a-row-by-global-finance-839578818.html
+- (4) https://www.valuepenguin.com/banking/td-bank-review
+- (5) https://www.borndigital.com/2020/06/18/bankings-new-normal-td-chief-digital-officer-rizwan-khalfan
+- (6) https://www.investopedia.com/terms/b/bigfivebanks.asp
