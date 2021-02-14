@@ -14,7 +14,7 @@ After the economy detoriated post the Great Depression and the war years leading
 
 TD has lately focused on making banking easily accesible for the customers by digitizing banking, developing features that make banking convenient by prioritizing customer needs. 
 
-TD operates in the following sectors: Personal Banking, Business Banking, Auto Finance, Wealth Management, Direct Investments, Insurance, and Securities. TD offers these financial products and services to over 26.5 million customers worldwide. On October 31, 2020 TD had over 14 million active online and mobile users, and managed around CDN$1.7 trillion in assets(2).
+TD operates in the following sectors: Personal Banking, Business Banking, Auto Finance, Wealth Management, Direct Investments, Insurance, and Securities. TD offers these financial products and services to over 26.5 million customers worldwide. On October 31, 2020 TD had over 14 million active online and mobile users, and managed around C$1.7 trillion in assets(2).
 
 In 2020, TD won 5 prestigious awards in the North American Global Finance Digital Bank, the list includes: Most Innovative Digital Bank, Best Online Product Offerings, Best Bill Payment & Presentment, Best Mobile Banking Adaptive Site, Best Information Security and Fraud Management(3). This shows the initiative TD has taken to grow and improve themselves in the technological sector. TD invests a lot in their coding technology and employees required to keep their applications updated and running, they have a preferece towards Java. Another technological sector that TD invests heavily in is Cyber Security, with all this mordern era banking happening online, and all this data stored on cloud, it is very important that none of the personal customer data is not breached by mordern day hackers.
 
@@ -25,22 +25,16 @@ TD has a competitive edge in the market when it comes to customer service. They 
 
 TD is involved in Personal Finance/Deposits/Online Banking domain. A few big innovations were made in this domain, cheque deposit using picture has been one of the biggest innvoations of the past few years, however there are a few other innovations that revolutionized the banking industry such as e-transfer, direct deposit, mobile app banking.
 
-A few of TD's direct competitors are the following: CIBC, BMO, RBC, Scotia Bank, HSBC.
+A few of TD's direct competitors are the following: Canadian Imperial Bank of Commerce(CIBC), Bank of Montreal(BMO), Royal Bank of Canada(RBC), Scotia Bank, HSBC.
 
 
 ## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
 
 TD has come a long way from just being a regular bank to one of the most convenient/ easy to use banks due to their prioritization of customer needs. Their constant emphasis to help the people has gained them a large customer base. 
 
 Currently during COVID, TD's digital team has developed pandemic-specific application to handle government responses and programs: mortgage and auto-payment deferrals,vPaycheck Protection Program (PPP) and Canada’s Emergency Response Benefit (CERB). The team developed SimpleApps, a platform  made for users to easily apply for relief services. Initially 20 such forms were created, TD recieved over 500,000 online applications recieved within 3 months(5).
 
-
+The success of a bank is measured by the number of customers it provides services to and the value of it's assets held. TD provides products and services to over 26.5 million customers worldwide(2) compared to Scotia Bank's 23 million, RBC's 16 million, BMO's 7 million, and CIBC's 11 million customers worldwide(6). TD also has total assets valued at CDN$ 1.7 Trillion compared to BMO's C$ 949.3 billion, and CIBC's C$ 769.6 billion in assets. This shows that TD is comparatively doing much better than its competitors.
 
 ## Recommendations
 
@@ -62,3 +56,4 @@ Currently during COVID, TD's digital team has developed pandemic-specific applic
 (3) https://www.newswire.ca/news-releases/td-awarded-most-innovative-digital-bank-for-second-year-in-a-row-by-global-finance-839578818.html
 (4) https://www.valuepenguin.com/banking/td-bank-review
 (5) https://www.borndigital.com/2020/06/18/bankings-new-normal-td-chief-digital-officer-rizwan-khalfan
+(6) https://www.investopedia.com/terms/b/bigfivebanks.asp
