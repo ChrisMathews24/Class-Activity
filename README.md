@@ -1,8 +1,7 @@
-# TD: A rising influence in FinTech
+# TD: A Rising Influence in FinTech
 ![image](TDpic.png)
 
 ## Overview and Origin of TD
-
 
 The Toronto-Dominion Bank is one of the largest Canadian multinational banking and financial services corporation. It was formed on February 1st, 1995 through the amalgation of The Bank of Toronto, chartered in 1855 by a group of millers and merchants, and The Dominion Bank, chartered in 1869 by a group of professionals, industrialists and financiers(1). The headquarters is located in Toronto.
 
@@ -13,17 +12,13 @@ After the economy detoriated post the Great Depression and the war years leading
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 TD has lately focused on making banking easily accesible for the customers by digitizing banking, developing features that make banking convenient by prioritizing customer needs. 
 
 TD operates in the following sectors: Personal Banking, Business Banking, Auto Finance, Wealth Management, Direct Investments, Insurance, and Securities. TD offers these financial products and services to over 26.5 million customers worldwide. On October 31, 2020 TD had over 14 million active online and mobile users, and managed around CDN$1.7 trillion in assets(2).
+
+In 2020, TD won 5 prestigious awards in the North American Global Finance Digital Bank, the list includes: Most Innovative Digital Bank, Best Online Product Offerings, Best Bill Payment & Presentment, Best Mobile Banking Adaptive Site, Best Information Security and Fraud Management(3). This shows the initiative TD has taken to grow and improve themselves in the technological sector. TD invests a lot in their coding technology and employees required to keep their applications updated and running, they have a preferece towards Java. Another technological sector that TD invests heavily in is Cyber Security, with all this mordern era banking happening online, and all this data stored on cloud, it is very important that none of the personal customer data is not breached by mordern day hackers.
+
+TD has a competitive edge in the market when it comes to customer service. They take pride in providing the best and most convenient customer service. Unlike most of their competitors, TD encourages the public to open multiple accounts within the bank and provides customers with better rates for using multiple accounts(4).
 
 
 
@@ -60,3 +55,5 @@ TD operates in the following sectors: Personal Banking, Business Banking, Auto F
 ### Bibliography
 (1) https://www.td.com/about-tdbfg/corporate-information/tds-history/ourroots.jsp
 (2) https://www.td.com/about-tdbfg/corporate-information/corporate-profile/profile.jsp
+(3) https://www.newswire.ca/news-releases/td-awarded-most-innovative-digital-bank-for-second-year-in-a-row-by-global-finance-839578818.html
+(4) https://www.valuepenguin.com/banking/td-bank-review
