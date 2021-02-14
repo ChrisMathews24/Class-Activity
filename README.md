@@ -21,14 +21,12 @@ In 2020, TD won 5 prestigious awards in the North American Global Finance Digita
 TD has a competitive edge in the market when it comes to customer service. They take pride in providing the best and most convenient customer service. Unlike most of their competitors, TD encourages the public to open multiple accounts within the bank and provides customers with better rates for using multiple accounts(4).
 
 
-
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+TD is involved in Personal Finance/Deposits/Online Banking domain. A few big innovations were made in this domain, cheque deposit using picture has been one of the biggest innvoations of the past few years, however there are a few other innovations that revolutionized the banking industry such as e-transfer, direct deposit, mobile app banking.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+A few of TD's direct competitors are the following: CIBC, BMO, RBC, Scotia Bank, HSBC.
 
-* What are the other major companies in this domain?
 
 ## Results
 
@@ -37,6 +35,12 @@ TD has a competitive edge in the market when it comes to customer service. They 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+
+TD has come a long way from just being a regular bank to one of the most convenient/ easy to use banks due to their prioritization of customer needs. Their constant emphasis to help the people has gained them a large customer base. 
+
+Currently during COVID, TD's digital team has developed pandemic-specific application to handle government responses and programs: mortgage and auto-payment deferrals,vPaycheck Protection Program (PPP) and Canada’s Emergency Response Benefit (CERB). The team developed SimpleApps, a platform  made for users to easily apply for relief services. Initially 20 such forms were created, TD recieved over 500,000 online applications recieved within 3 months(5).
+
+
 
 ## Recommendations
 
@@ -57,3 +61,4 @@ TD has a competitive edge in the market when it comes to customer service. They 
 (2) https://www.td.com/about-tdbfg/corporate-information/corporate-profile/profile.jsp
 (3) https://www.newswire.ca/news-releases/td-awarded-most-innovative-digital-bank-for-second-year-in-a-row-by-global-finance-839578818.html
 (4) https://www.valuepenguin.com/banking/td-bank-review
+(5) https://www.borndigital.com/2020/06/18/bankings-new-normal-td-chief-digital-officer-rizwan-khalfan
