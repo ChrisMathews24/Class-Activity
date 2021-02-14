@@ -34,7 +34,7 @@ TD has come a long way from just being a regular bank to one of the most conveni
 
 Currently during COVID, TD's digital team has developed pandemic-specific application to handle government responses and programs: mortgage and auto-payment deferrals,vPaycheck Protection Program (PPP) and Canada’s Emergency Response Benefit (CERB). The team developed SimpleApps, a platform  made for users to easily apply for relief services. Initially 20 such forms were created, TD recieved over 500,000 online applications recieved within 3 months(5).
 
-The success of a bank is measured by the number of customers it provides services to and the value of it's assets held. TD provides products and services to over 26.5 million customers worldwide(2) compared to Scotia Bank's 23 million, RBC's 16 million, BMO's 7 million, and CIBC's 11 million customers worldwide(6). TD also has total assets valued at C$1.7 trillion compared to BMO's C$ 949.3 billion, and CIBC's C$ 769.6 billion in assets. This shows that TD is comparatively doing much better than its competitors.
+The success of a bank is measured by the number of customers it provides services to and the value of it's assets held. TD provides products and services to over 26.5 million customers worldwide(2) compared to Scotia Bank's 23 million, RBC's 16 million, BMO's 7 million, and CIBC's 11 million customers worldwide(6). TD also has total assets valued at C$1.7 trillion(2) compared to BMO's C$ 713 billion(7), and CIBC's C$ 768.5 billion(8) in assets. This shows that TD is comparatively doing much better than its competitors.
 
 ## Recommendations
 
@@ -50,3 +50,5 @@ This product will help attract more customers as currently a lot of competition 
 - (4) https://www.valuepenguin.com/banking/td-bank-review
 - (5) https://www.borndigital.com/2020/06/18/bankings-new-normal-td-chief-digital-officer-rizwan-khalfan
 - (6) https://www.investopedia.com/terms/b/bigfivebanks.asp
+- (7) https://capitalmarkets.bmo.com/en/about-us/
+- (8) https://www.cibc.com/content/dam/about_cibc/investor_relations/pdfs/quarterly_results/2020/q320factsheet-en.pdf
